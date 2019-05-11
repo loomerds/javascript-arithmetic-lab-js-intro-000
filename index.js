@@ -6,12 +6,12 @@ function subtract() {
 
 }
 
-function multiply() {
-
+function multiply(a, b) {
+  return a*b;
 }
 
-function divide() {
-
+function divide(a, b) {
+  return a/b;
 }
 
 function inc(n) {
