@@ -1,4 +1,4 @@
-fucntion add() {
+function add() {
 
 }
 
