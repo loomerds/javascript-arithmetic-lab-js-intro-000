@@ -22,10 +22,10 @@ function dec(n) {
 
 }
 
-makeInt(n) {
+function makeInt(n) {
 
 }
 
-preserveDecimal(n) {
+function preserveDecimal(n) {
 
 }
